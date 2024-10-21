@@ -13,8 +13,6 @@ def get_requirements()->List[str]:
 
 
 
-
-
 setup(
     name='sensor',
     version='0.0.1',
